@@ -9,4 +9,9 @@ About it: Proxies manage different single minecraft servers and manage player co
 - **Fork:** -
 - **Description:** Proxy for Minecraft Bedrock.
 
+### [🚥 Spectrum](https://github.com/cooldogedev/spectrum)
+- **Author:** cooldogedev
+- **Fork:** -
+- **Description:** A blazingly fast, lightweight, and easy to use Minecraft: Bedrock Edition proxy.
+
 # ❌ Inactive Development
