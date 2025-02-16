@@ -9,11 +9,18 @@ This list contains Minecraft Bedrock vanilla server software.
 - **Plugins:** ❌
 - **Addons:** Behaviour and Resource Packs
 
-### [📻 JukeboxMC](https://github.com/LucGamesYT/JukeboxMC)
-- **Author:** LucGamesYT
+### [🍃 LeviLamina](https://github.com/LiteLDev/LeviLamina)
+- **Author:** LiteLDev
 - **Fork:** -
-- **Description:** A Minecraft Bedrock Edition Server Software written in Java.
-- **Plugins:** ❌
-- **Addons:** ❌
+- **Description:** A lightweight, modular, and versatile mod loader for Minecraft Bedrock Edition
+- **Plugins:** LeviLamina API
+- **Addons:** Behaviour and Resource Packs
+
+### [🪨 Endstone](https://github.com/EndstoneMC/endstone)
+- **Author:** EndstoneMC
+- **Fork:** -
+- **Description:** High-level Plugin API for Bedrock Dedicated Servers (BDS), in both Python and C++.
+- **Plugins:** Endstone API
+- **Addons:** Behaviour and Resource Packs
 
 # ❌ Inactive Development
