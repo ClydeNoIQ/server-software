@@ -24,3 +24,9 @@ This list contains Minecraft Bedrock vanilla server software.
 - **Addons:** Behaviour and Resource Packs
 
 # ❌ Inactive Development
+
+### [💨 LiteLoader BDS](https://github.com/LiteLDev/LiteLoaderBDS)
+- **Author:** LiteLDev
+- **Fork:** -
+- **Description:** An unofficial plugin loader that provides basic API support for Bedrock Dedicated Server.
+- **Plugins:** LiteLoaderAPI (C++, JS, Lua, C#)
