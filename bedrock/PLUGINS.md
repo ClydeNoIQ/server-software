@@ -1,21 +1,12 @@
 # Minecraft Bedrock Plugins Software.
 This list contains Minecraft Bedrock plugins server software.
 
-Since most of the software does not support all vanilla features, it's recommended to use [GeyserMC](/OTHERS.md#-geysermc) (Bedrock to Java Bridge) instead if you want to play vanilla.
-
 # ✔️ Active Development
 ### [☢️ Nukkit (NukkitX)](https://github.com/CloudburstMC/Nukkit)
 - **Author:** CloudburstMC
 - **Fork:** Nukkit --> NukkitX
 - **Description:** Server software for Minecraft: Pocket Edition written in Java.
 - **Plugins:** Nukkit
-- **Addons:** ❌
-
-### [💨 LiteLoader BDS](https://github.com/LiteLDev/LiteLoaderBDS)
-- **Author:** LiteLDev
-- **Fork:** -
-- **Description:** An unofficial plugin loader that provides basic API support for Bedrock Dedicated Server.
-- **Plugins:** LiteLoaderAPI (C++, JS, Lua, C#)
 - **Addons:** ❌
 
 ### [💠 PocketMine-MP](https://github.com/pmmp/PocketMine-MP)
